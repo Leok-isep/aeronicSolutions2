@@ -6,14 +6,14 @@
 
     <meta charset="utf-8" />
     
-    <link rel="stylesheet" href="../assets/style.css" />
-    <link rel="stylesheet" href="../assets/footer.css" />
+    <link rel="stylesheet" href="View/assets/style.css" />
+    <link rel="stylesheet" href="View/assets/footer.css" />
     
 </head>
 
 <body>
 
-    <?php include "header.php"; ?>
+    <?php include "View\base\header.php"; ?>
 
     </nav>
     <div class="parallaxC">
